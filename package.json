@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "mocha --timeout 5000 --reporter 'json' > .results.json & mocha"
+    
   },
   "repository": {
     "type": "git",
